@@ -1,0 +1,11 @@
+●¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+
+No, por que el archivo se encuentra en la rama Opcion_2 y ahora me encuentro en la rama principal y el ultimo comit en esta rama no tiene ese archivo
+
+● Utilice el comando gitk --all para ver una representación gráfica del historial
+de versiones del repositorio.
+
+● En la línea principal agregue un nuevo archivo que se llame Respuestas.txt y
+realice un commit para agregar este archivo al repositorio.
+
+● vuelva a ejecutar el comando gitk --all ¿Qué diferencias nota?
