@@ -9,3 +9,13 @@ de versiones del repositorio.
 realice un commit para agregar este archivo al repositorio.
 
 ● vuelva a ejecutar el comando gitk --all ¿Qué diferencias nota?
+
+se agrego un nuevo nodo en la rama principal en el grafico de comits y la rama Opcion_2 se mantuvo igual
+
+● En el Branch main se va a combinar (merge) ambos repositorios. Para esto, utilice
+el siguiente comando:
+o git merge Opcion_2 -m "merge opcion 2" → combinamos
+master con Opcion_2
+● Luego utilice el comando gitk –all para ver los cambios, ¿Qué nota?
+
+La rama Opcion_2 se unio a la rama principal
